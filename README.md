@@ -71,15 +71,15 @@ npm install
 
 - Home Page
 
-![Screenshot](src\assets\screenShot\full-page.jpg)
+![Screenshot](src/assets/screenShot/full-page.jpg)
 
 -  About Section
-![Screenshot](src\assets\screenShot\about.jpg)
+![Screenshot](src/assets/screenShot/about.jpg)
 
 - Testimonial section
-![Screenshot](src\assets\screenShot\testimonial.jpg)
+![Screenshot](src/assets/screenShot/testimonial.jpg)
   
 - Header Section
-![Screenshot](src\assets\screenShot\Header.jpg)
+![Screenshot](src/assets/screenShot/Header.jpg)
 
 
