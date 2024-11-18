@@ -82,4 +82,12 @@ npm install
 - Header Section
 ![Screenshot](src/assets/screenShot/Header.jpg)
 
+## License
+
+This project is licensed under the MIT License. See the [MIT](https://choosealicense.com/licenses/mit/) file for details.
+
+
+
+## Contact
+For any inquiries, please contact us at rahulbnc463@gmail.com.
 
